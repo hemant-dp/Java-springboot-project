@@ -3,7 +3,7 @@ package org.example;
 public class Welcome {
     public static void main(String[] args) {
 
-        System.out.println("welcome to conflict situation");
+        System.out.println("welcome to conflict situation g");
 
     }
 
